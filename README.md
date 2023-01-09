@@ -1,16 +1,16 @@
-### Hi there 👋
+## 🦉< 僕の名前はTinyOwl!
 
-<!--
-**TinyOwl49/TinyOwl49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ❤️ 好きなプログラミング言語は？
+- Python
+- Nim
+- Rust
+#### 🧑‍💻 よく使うプログラミング言語は？
+- Python
+- Typescript
+- C#
+#### 🤔 どんなことがしたいんだい？
+- 🤖 機械学習
+- 🌐 Web開発
+- 🥎 物理計算
+#### 😥 実力はあるのかい？
+###### ~~ありません~~
